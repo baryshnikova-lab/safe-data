@@ -1,18 +1,18 @@
-Process	R	G	B
-1	2	251	34
-2	253	247	2
-3	60	251	0
-4	0	32	251
-5	98	8	232
-6	252	90	0
-7	228	1	86
-8	252	0	253
-9	0	251	251
-10	0	251	251
-11	192	242	2
-12	30	223	104
-13	228	1	86
-14	253	247	2
-15	247	4	2
-16	0	118	239
-17	53	0	225
+Process	R	G	B	Name
+1	2	251	34	Cell polarity & morphogenesis
+2	253	247	2	Glycosylation, protein folding/targeting, cell wall biosynthesis
+3	60	251	0	Ribosome biogenesis
+4	0	32	251	Protein degradation
+5	98	8	232	Cytokinesis
+6	252	90	0	Nuclear-cytoplasmic transport
+7	228	1	86	MVB sorting & ph-dependent signaling
+8	252	0	253	mRNA processing
+9	0	251	251	tRNA wobble modification
+10	0	251	251	Peroxisome
+11	192	242	2	Metabolism & fatty acid biosynthesis
+12	30	223	104	DNA replication & repair
+13	228	1	86	Vesicle traffic
+14	253	247	2	Transcription & chromatin organization
+15	247	4	2	Mitosis & chromosome segregation
+16	0	118	239	rRNA & ncRNA processing
+17	53	0	225	Respiration, oxidative phosphorylation, mitochondrial targeting
