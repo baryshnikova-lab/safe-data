@@ -1,0 +1,14 @@
+	att_binary	att_binary_novariance	att_binary_novariance_matched	att_quant_novariance
+YHR087W	0	1	1	0.25
+YBR031W	1	1	1	0.25
+YPL097W	-1	1	1	0.25
+YPL122C	0	1	1	0.25
+YAL021C	1	1	1	0.25
+YDR332W	0	1	1	0.25
+YML063W	0	1	1	0.25
+YGL016W	-1	1	1	0.25
+YJL010C	0	1	1	0.25
+YPR167C	1	1	1	0.25
+YHR0872_nomatch	1	1	-1	0.25
+YPL097W_nomatch	0	1	0	0.25
+YPR167C_nomatch	-1	1	-1	0.25
